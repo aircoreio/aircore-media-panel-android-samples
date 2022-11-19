@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_200">#FF20FF98</color>
+    <color name="green_500">#FF19D07B</color>
+    <color name="green_700">#FF16A562</color>
+    <color name="error">#FFF84F7A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="border">#1A000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="primary_contrast">#FFFFFF</color>
+    <color name="danger_contrast">#FFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MediaSample" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimary">@color/green_500</item>
+        <item name="colorPrimaryVariant">@color/green_700</item>
+        <item name="colorError">@color/error</item>
+        <item name="android:statusBarColor">@color/green_700</item>
+    </style>
+</resources>
