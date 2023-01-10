@@ -14,7 +14,7 @@ android {
         minSdk = 26
         targetSdk = 33
         versionCode = 1
-        versionName = "1.0"
+        versionName = "2.0.1"
 
         buildConfigField("String", "PUBLISHABLE_API_KEY", "\"\"")
 
@@ -52,7 +52,7 @@ android {
 
 dependencies {
     // Media Panel SDK
-    implementation("io.aircore.panel:media:1.0.0")
+    implementation("io.aircore.panel:media:2.0.1")
 
     // Android dependencies
     implementation("androidx.core:core-ktx:1.8.0")

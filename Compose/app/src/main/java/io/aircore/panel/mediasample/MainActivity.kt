@@ -144,6 +144,7 @@ class MainActivity : ComponentActivity() {
             panelTitle = "My Panel Title",
             panelSubtitle = "My Panel Subtitle",
             showMicrophoneButton = true,
+            autoPublishMicOnJoin = false,
             strings = customStrings(),
             collapsedStateOptions = CollapsedStateOptions.Bar(
                 maxAvatars = 3,

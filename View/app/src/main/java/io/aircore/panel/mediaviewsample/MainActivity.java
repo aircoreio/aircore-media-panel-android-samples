@@ -147,6 +147,7 @@ public class MainActivity extends AppCompatActivity {
                 "My Panel Title", // panelTitle
                 "My Panel Subtitle", // panelSubtitle
                 true, // showMicrophoneButton
+                false, // autoPublishMicOnJoin
                 customStrings(), // strings
                 new CollapsedStateOptions.Bar( // collapsedStateOptions
                         3, // maxAvatars
