@@ -9,8 +9,8 @@ The samples in this repo demonstrate how to use the Aircore MediaPanel SDK.
 
 ### API References
 
-#### [Compose](https://docs.aircore.io/android/mediapanel/api-reference)
-#### [View](https://docs.aircore.io/android/mediapanelview/api-reference)
+#### [Compose](https://docs.aircore.io/android/media-panel/api-reference)
+#### [View](https://docs.aircore.io/android/media-panel-view/api-reference)
 
 ### Samples
 #### [Compose](https://github.com/aircoreio/aircore-media-panel-android-samples/tree/main/Compose)
